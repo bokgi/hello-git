@@ -5,4 +5,5 @@ def mulNum(a, b):
     
 num01 = 10
 num02 = 20
+#여기에 주석을 추가했습니다.
 print(mulNum(num01,num02))
